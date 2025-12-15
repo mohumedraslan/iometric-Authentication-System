@@ -7,7 +7,7 @@ This project is a web-based biometric authentication system built with **Streaml
 
 The system uses a simple file-based database where images are stored as `database/{username}.jpg`.
 
----
+--
 
 ## How It Works
 
