@@ -40,7 +40,7 @@ This project is a **Face-Based Biometric Authentication System** built using **P
 
 1. **Clone the repository**
    ```bash
-   git clone <[repository-url](https://github.com/mohumedraslan/Biometric-Authentication-System)>
+   git clone https://github.com/mohumedraslan/Biometric-Authentication-System
    ```
 
 2. **Install dependencies**
